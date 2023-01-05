@@ -1,0 +1,25 @@
+{
+  "name": "cypresspoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlastimilmatejka/CypressPOC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vlastimilmatejka/CypressPOC/issues"
+  },
+  "homepage": "https://github.com/vlastimilmatejka/CypressPOC#readme",
+  "dependencies": {
+    "cypress": "^12.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
