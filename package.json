@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/vlastimilmatejka/CypressPOC#readme",
   "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^15.0.0",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.1.5",
     "cypress": "^12.2.0"
   },
   "devDependencies": {
